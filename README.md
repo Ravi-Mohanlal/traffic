@@ -6,7 +6,7 @@ pygame, numpy, matplotlib
 
 ## Instructions
 
-Run the etire notebook.
+Run the entire notebook.
 
 Then run the cell called Visualiztion to see the simulation.
 
